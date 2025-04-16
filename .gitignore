@@ -1,0 +1,21 @@
+# Arquivos do SO
+Thumbs.db
+Desktop.ini
+
+# Pastas de build
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Cache local
+.cache/
