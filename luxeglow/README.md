@@ -2,7 +2,7 @@
 
 Projeto de uma **landing page responsiva** para a marca fictícia *LuxeGlow*, especializada em cuidados com a pele. Desenvolvida com HTML e Tailwind CSS, esta página traz um design elegante e moderno.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Esse projeto foi desenvolvido durante as aulas de Desenvolvimento Web para Dispositivos Móveis. 
 
@@ -18,15 +18,15 @@ A estrutura do site conta com:
 
 🔗 [Design de referência no Figma](https://)
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - Tailwind CSS
 
-## 📱 Responsividade
+## Responsividade
 
 Este projeto foi desenvolvido seguindo a abordagem Mobile-First combinada com o uso da metodologia Utility-First por meio do framework Tailwind CSS.
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido com fins educacionais durante as aulas de Desenvolvimento Web para Dispositivos Móveis, e compõe meu portfólio como desenvolvedora front-end.
