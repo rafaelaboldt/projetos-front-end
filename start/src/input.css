@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --color-verdeclaro: #74C69D;
+}
